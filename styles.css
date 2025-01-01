@@ -1,0 +1,26 @@
+.header-row {
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.kittens {
+  margin: auto; 
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+form {
+  padding-bottom: 20px;
+}
+
+form>.row {
+  padding: 10px;
+}
+
+form>.row>div {
+  text-align: center;
+}
